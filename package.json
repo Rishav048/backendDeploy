@@ -1,5 +1,5 @@
 {
-  "name": "backend deploy",
+  "name": "backend-deploy",
   "version": "1.0.0",
   "description": "mock server app",
   "main": "server.js",
