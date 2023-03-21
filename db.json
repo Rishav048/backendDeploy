@@ -1,67 +1,11 @@
 {
   "users": [
-    {
-      "username": "Rishav",
-      "email": "rishav@gmail.com",
-      "password": "1123",
-      "id": 1
-    }
+    
   ],
-  "hotels": [
-    {
-      "category": "Suite",
-      "image_url": "http://www.imagehotels.net/fullpanel/uploads/files/doubletree.jpg",
-      "type_of_room": "Non-AC",
-      "bed_type": "Double",
-      "no_of_persons": "8",
-      "capacity": "120",
-      "cost": "3000",
-      "booked": false,
-      "id": 2
-    },
-    {
-      "category": "Deluxe",
-      "image_url": "http://www.imagehotels.net/fullpanel/uploads/files/hotel-portfolio-image-bluff.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Single",
-      "no_of_persons": "45555",
-      "capacity": "1200000",
-      "cost": "5050",
-      "booked": false,
-      "id": 3
-    },
-    {
-      "category": "Deluxe",
-      "image_url": "https://media.istockphoto.com/id/1366183719/photo/blue-luggage-with-hat-in-modern-hotel-room-after-door-opening-time-to-travel-service-journey.jpg?b=1&s=170667a&w=0&k=20&c=_XJ0SGzNCnxF6H9rCMvFb3SDyfw6HqBpnWen1qgZzCI=",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "5",
-      "capacity": "14",
-      "cost": "1399",
-      "booked": false,
-      "id": 4
-    },
-    {
-      "category": "Suite",
-      "image_url": "https://media.istockphoto.com/id/1409928624/photo/3d-rendering-3d-illustration-interior-scene-and-mockup-interior-render-bedroom-modern-style.jpg?b=1&s=170667a&w=0&k=20&c=YA9Vag4u4y_yuf2YkHh0eBa-fzhtSReebnLhrknul6c=",
-      "type_of_room": "Non-AC",
-      "bed_type": "Single",
-      "no_of_persons": "8",
-      "capacity": "10",
-      "cost": "576",
-      "booked": false,
-      "id": 5
-    },
-    {
-      "category": "Family",
-      "image_url": "https://cdn.pixabay.com/photo/2016/03/28/09/34/bedroom-1285156__340.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Single",
-      "no_of_persons": "7",
-      "capacity": "89",
-      "cost": "8090",
-      "booked": false,
-      "id": 6
-    }
+  "products": [
+    
+  ],
+  "cart":[
+    
   ]
 }
